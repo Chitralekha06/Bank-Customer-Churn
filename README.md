@@ -1,14 +1,14 @@
 Customer Churn Prediction Project
 
-Overview
+OVERVIEW:
 
 This project focuses on predicting customer churn for a European multinational bank operating in France, Germany, and Spain. The bank faces high churn rates, leading to revenue losses and increased customer acquisition costs. The goal is to identify factors contributing to churn and develop predictive models to mitigate this issue by retaining customers.
 
-Problem Statement
+PROBLEM STATEMENT:
 
 Customer churn is a critical problem for the bank, driven by factors such as competition, dissatisfaction, changing needs, and poor service. Understanding why customers leave is essential for taking proactive measures, such as offering personalized services and improving engagement. By reducing churn, the bank aims to enhance customer retention and strengthen its market position.
 
-Detailed Approach
+APPROACH:
 
 The project employs a systematic approach divided into the following stages:
 
@@ -44,7 +44,7 @@ Comparison: Comparing model results before and after applying techniques like SM
 
 Best Model Evaluation: Highlighting the best-performing model’s accuracy and implications for business decisions.
 
-Notebooks Overview
+NOTEBOOKS:
 
 The project is organized into the following Jupyter notebooks:
 
@@ -66,7 +66,7 @@ Focuses on the assumptions and requirements for logistic regression.
 
 Evaluates the best-performing model for the given problem.
 
-Key Findings and Results
+KEY FINDINGS AND RESULTS:
 
 Insights from EDA: Discovered key factors influencing customer churn, such as account balance, tenure, and customer satisfaction scores.
 
@@ -74,7 +74,7 @@ Model Performance: XGBoost emerged as the best-performing model with a high AUC-
 
 Business Implications: The bank can target high-risk customers with personalized interventions to reduce churn and improve customer retention rates.
 
-Dependencies
+DEPENDENCIES:
 
 Python 3.x
 
@@ -92,7 +92,7 @@ matplotlib
 
 seaborn
 
-How to Run
+HOW TO RUN:
 
 Clone the repository.
 
@@ -102,7 +102,7 @@ Open the notebooks in Jupyter Notebook or Jupyter Lab.
 
 Follow the steps in each notebook to preprocess the data, build models, and evaluate results.
 
-Future Enhancements
+FUTURE ENHANCEMENTS:
 
 Incorporating additional data sources, such as customer feedback or transaction history, to enhance model accuracy.
 
