@@ -48,19 +48,19 @@ NOTEBOOKS:
 
 The project is organized into the following Jupyter notebooks:
 
-Preprocessing Notebook (DSE-FT-C-MAY24-G5-FinalReport_Preprocessing.ipynb)
+Preprocessing Notebook (Preprocessing.ipynb)
 
 Summarizes the problem statement, data, and findings.
 
 Prepares the dataset for modeling by handling missing values, encoding categorical variables, and addressing class imbalance.
 
-Model Development Notebook (DSE-FT-C-MAY24-G5-FinalReport_models.ipynb)
+Model Development Notebook (models.ipynb)
 
 Installs necessary packages like xgboost and scikit-learn.
 
 Develops machine learning models and evaluates their performance before and after applying SMOTE.
 
-Best Model Notebook (DSE-FT-C-May24-G5-BestModel.ipynb)
+Best Model Notebook (BestModel.ipynb)
 
 Focuses on the assumptions and requirements for logistic regression.
 
